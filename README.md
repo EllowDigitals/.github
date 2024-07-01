@@ -33,14 +33,13 @@ EllowDigitals is dedicated to delivering cutting-edge digital solutions with a f
 Explore some of our featured projects:
 
 1. **TypeBlitz** - A comprehensive guide and resource for software apps and website development. Visit [typeblitz.tech](https://typeblitz.tech) to learn more.
-2. **Project Name** - Brief description of another project (add more projects as necessary).
 
 ## Contact Us
 
 For inquiries, collaborations, or more information about our services, feel free to reach out to us:
 
-- 📧 **Email:** your.email@example.com
-- 🌐 **Website:** [ellowdigitals.tech](https://ellowdigitals.tech) (replace with your actual website)
+- 📧 **Email:** sarwanyadav6174@gnmail.com
+- 🌐 **Website:**
 - 💻 **GitHub:** [EllowDigitals on GitHub](https://github.com/sarwan6174)
 
 ## Connect With Us
@@ -48,8 +47,6 @@ For inquiries, collaborations, or more information about our services, feel free
 Stay updated with our latest projects and insights:
 
 - 📸 **Instagram:** [@EllowDigitals](https://instagram.com/your_instagram) (replace with your actual Instagram handle)
-- 🐦 **Twitter:** [@EllowDigitals](https://twitter.com/your_twitter) (replace with your actual Twitter handle)
-- 💼 **LinkedIn:** [EllowDigitals](https://linkedin.com/company/your_linkedin) (replace with your actual LinkedIn profile)
 
 ## License
 
