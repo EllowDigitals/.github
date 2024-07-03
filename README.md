@@ -42,12 +42,6 @@ For inquiries, collaborations, or more information about our services, feel free
 - 🌐 **Website:**
 - 💻 **GitHub:** [EllowDigitals on GitHub](https://github.com/sarwan6174)
 
-## Connect With Us
-
-Stay updated with our latest projects and insights:
-
-- 📸 **Instagram:** [@EllowDigitals](https://instagram.com/your_instagram) (replace with your actual Instagram handle)
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
