@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/EllowDigitals//ellowdigitals.github.io/blob/main/assets/favicon/share.jpg" alt="EllowDigitals Logo" width="200">
+  <img src="https://ellowdigitals.github.io/assets/favicon/share.jpg" alt="EllowDigitals Logo" width="200">
   <br> EllowDigitals
 </h1>
 
